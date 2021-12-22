@@ -11,3 +11,5 @@ button:hover{
 }
 h2{justify-self: start;}
 p{text-align: start;}
+
+h6{margin-top: inherit;}
