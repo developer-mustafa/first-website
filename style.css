@@ -1,18 +1,8 @@
-
-h1{
-
-
-    
-    color:blue;
-    text-align: leftr;
-    display: inline-block;
+button{
+    background-color: brown;
+    pointer-events: calc();
 }
-h3{
-    color: rgb(55, 252, 55);
+button:hover{
+    background-color: chartreuse;
+    color: crimson;
 }
-=======
-h1{
-color:rgb(130, 95, 0);
-
-}
-
