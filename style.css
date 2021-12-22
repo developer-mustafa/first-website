@@ -5,4 +5,11 @@ button{
 button:hover{
     background-color: chartreuse;
     color: crimson;
+    box-shadow: darkblue;
+
+    margin-top: 50px;
 }
+h2{justify-self: start;}
+p{text-align: start;}
+
+h6{margin-top: inherit;}
